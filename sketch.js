@@ -138,9 +138,7 @@ function setup(){
 function draw(){
     background("cyan")
     }
-document.getElementById("reset").onclick = (){
-document.location.reload();
-}
+
 
     if(cG === "1"){
         number2 = ""
