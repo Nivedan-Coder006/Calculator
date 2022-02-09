@@ -137,7 +137,7 @@ function setup(){
 }
 function draw(){
     background("cyan")
-    }
+    
 
 
     if(cG === "1"){
