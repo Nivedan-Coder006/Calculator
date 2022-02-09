@@ -139,7 +139,7 @@ function draw(){
     background("cyan")
     }
 document.getElementById("reset").onclick = (){
-window.location.reload();
+document.location.reload();
 }
 
     if(cG === "1"){
