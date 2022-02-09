@@ -359,3 +359,6 @@ function draw(){
 
     text(barText,30,210)
 }
+document.getElementById("reset").onclick = (){
+window.location.reload();
+}
